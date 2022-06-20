@@ -2,5 +2,5 @@
 ATAC-seq can reveal the interplay between genomic locations of open chromatin, DNA-binding proteins, and individual nucleosomes 
 
 
-# download data
-ATAC seq retrived from public repositories such as ENA
+# Download data
+ATAC seq retrived from public repositories such as ENA using "wget" tools
